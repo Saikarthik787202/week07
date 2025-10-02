@@ -145,3 +145,4 @@ jobs:
       run: az logout
       if: always()
 # Triggering the workflow for the assignment.
+# Triggering the workflow again after updating secrets.
